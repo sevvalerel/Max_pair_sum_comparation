@@ -18,5 +18,6 @@ Bu algoritma, diziyi önce Merge Sort yöntemiyle sıralar ve ardından sıralı
 
 Zaman Karmaşıklığı: O(n log n)
 Merge Sort algoritmasının sıralama işlemi her durumda O(n log n) zaman alır. Sıralı dizide son iki elemanın toplamını bulma işlemi ise O(1) karmaşıklığındadır. Sonuç olarak, algoritmanın toplam karmaşıklığı O(n log n) olarak kalır.
-Sonuç
+
+
 Bu proje, Brute Force ve Merge Sort algoritmalarını analiz ederek, zaman karmaşıklıklarının büyük veri setlerindeki etkilerini karşılaştırmayı amaçlamaktadır. Merge Sort algoritması, daha düşük zaman karmaşıklığı sayesinde büyük boyutlu veri setlerinde çok daha verimli çalışmaktadır.
